@@ -1,6 +1,4 @@
-les trois commande pour mettre a jours local --> github.com
-
-
+les trois commandes pour mettre a jours local --> github.com
 a) en local
 1-git add fichier (signaler le fichier a git)
 2-git commit -m "nom de la la vue"  ( on a pri un evue du projet LOCAL)
@@ -8,5 +6,8 @@ a) en local
 
 b) connexion vers le depo (en ligne)
 git remote add origin https://github.com/NomUtilisateur/nomDUDepository.git
+
 c) verification si la conexion est faite
 git remote -v
+
+git pull pour recuperer la derniere version d'un projet commun sur lekel d'autres ont contribué !
